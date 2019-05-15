@@ -1,0 +1,13 @@
+[user]
+	email = lhh0461@175game.com
+	name = 罗浩恒
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
